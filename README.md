@@ -13,7 +13,7 @@ Nenhuma instalação é necessária, pois o script usa comandos nativos do Linux
 
 ```bash
 # Clone o repositório
-git clone https://github.com/jugolino/gerador-de-hashes.git
+git clone https://github.com/Jugolino/gerador-de-hashes.git
 
 # Entre na pasta do projeto
 cd gerador-de-hashes
